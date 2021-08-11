@@ -3,7 +3,8 @@
 ### In this project, you will demonstrate your mastery of the following competency:  
 ### Develop code using algorithms and data structures to solve basic programming problems 
 ## Scenario
-### The academic advisors in the Computer Science department at ABCU are very happy with the planning and design you have completed for the advising assistance software. They have ### decided they would like you to move forward with writing the code for the application so the department advisors can start using this to help when they talk with students.  ## ## Directions 
+### The academic advisors in the Computer Science department at ABCU are very happy with the planning and design you have completed for the advising assistance software. They have decided they would like you to move forward with writing the code for the application so the department advisors can start using this to help when they talk with students.
+## Directions 
 ### All of your coding will be completed in the integrated development environment (IDE). Additional references on the use of this IDE are linked in the Supporting Materials ### section. As you begin coding, you will be using the data structure that you recommended in Project One to complete the following.  
 ## Input: Design code to correctly read the course data file. The program you will submit will be a command-line program written in C++. You will prompt the user to ask for the file name that contains the course data and read that file into course objects that are stored in your chosen data structure. Your data structure will hold course objects. 
 ## Menu: Design code to create a menu that prompts a user for menu options. The menu should include the following options: 
