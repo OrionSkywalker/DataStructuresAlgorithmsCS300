@@ -1,0 +1,38 @@
+CS 300 Project Two Sample Program Output
+The text below is a sample execution of your program. User input is indicated in bold, although it will 
+not be displayed the same way when you run your program.
+Welcome to the course planner.
+1. Load Data Structure. 
+2. Print Course List. 
+3. Print Course.
+9. Exit
+What would you like to do? 8
+8 is not a valid option.
+1. Load Data Structure. 
+2. Print Course List. 
+3. Print Course.
+9. Exit
+What would you like to do? 2
+Here is a sample schedule:
+CSCI100, Introduction to Computer Science
+CSCI101, Introduction to Programming in C++
+CSCI200, Data Structures
+CSCI301, Advanced Programming in C++
+CSCI300, Introduction to Algorithms
+CSCI350, Operating Systems
+CSCI400, Large Software Development
+MATH201, Discrete Mathematics
+1. Load Data Structure. 
+2. Print Course List. 
+3. Print Course.
+9. Exit
+What would you like to do? 3
+What course do you want to know about? csci400
+CSCI400, Large Software Development
+Prerequisites: CSCI301, CSCI350
+1. Load Data Structure. 
+2. Print Course List. 
+3. Print Course.
+9. Exit
+What would you like to do? 4
+Thank you for using the course planner!
