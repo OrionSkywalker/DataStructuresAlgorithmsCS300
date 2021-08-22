@@ -2,13 +2,13 @@
 ## Reflection
 * ## What was the problem you were solving in the projects for this course?
 ### The problems had to do with making data accessible to a user in a timely and organized manner.
-* How did you approach the problem? Consider why data structures are important to understand.
+* ## How did you approach the problem? Consider why data structures are important to understand.
 ### I approached each of the problems by considering what functionality was required.
-* How did you overcome any roadblocks you encountered while going through the activities or project?
+* ## How did you overcome any roadblocks you encountered while going through the activities or project?
 ### I read c++ documentation and sought out additional information about implementing the functionality requested.
-* How has your work on this project expanded your approach to designing software and developing programs?
+* ## How has your work on this project expanded your approach to designing software and developing programs?
 ### I feel up to the task of working with data and applying my knowledge of data structures and algorithms to solve problems.
-* How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+* ## How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 ### Having written programs that are a little longer than others I have written in the past, I can now see the importance of having code that is modular. This organization not only allows me to quickly reuse solutions I have written in the past, I am also able to write code that is easier to understand for other developers.
 ## Competency
 ### In this project, you will demonstrate your mastery of the following competency:  
