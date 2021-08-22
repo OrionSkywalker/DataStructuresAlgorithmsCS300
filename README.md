@@ -1,5 +1,5 @@
 # DataStructuresAlgorithmsCS300
-##Reflection
+## Reflection
 * What was the problem you were solving in the projects for this course?
 ### The problems had to do with making data accessible to a user in a timely and organized manner.
 * How did you approach the problem? Consider why data structures are important to understand.
